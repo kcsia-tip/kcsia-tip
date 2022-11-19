@@ -2,8 +2,10 @@
 
 ###### Here are the things you need to know about me:
 
-###### Full name - Kyle Clarence G. Sia
-###### Year Level - 3rd year CpE Student
-###### Interests - Playing computer games and basketball, reading book and listening to music
-###### Email address - mkcgsia@tip.edu.ph
-###### Computer specs - Intel i5-8400 CPU; 8gb RAM;HDD - 1tb 
+###### Name: Kyle Clarence G. Sia
+###### Field of Expertise: Systems administration
+###### Contact Information
+###### Consultation Hours:  TTHS 7:00am - 12:00pm
+###### Email: mkcgsia@tip.edu.ph
+Additional Contact Information:
+09184031109 - Smart
